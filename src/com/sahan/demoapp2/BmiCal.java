@@ -1,4 +1,4 @@
-package com.sahan;
+package com.sahan.demoapp2;
 
 import java.io.IOException;
 import java.io.PrintWriter;
